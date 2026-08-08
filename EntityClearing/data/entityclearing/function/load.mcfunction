@@ -7,10 +7,8 @@ scoreboard players add warning entityclearing 1
 scoreboard players add alert entityclearing 1
 scoreboard players set tick entityclearing 0
 
-# kill and ignore
+# Choose your Entity Clearing Mode
 scoreboard players set mode entityclearing 1
-
-# kill accepted
 # scoreboard players set mode entityclearing 2
 
 # Set start value of timer
