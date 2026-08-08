@@ -8,7 +8,7 @@ scoreboard players set mode entityclearing 1
 # scoreboard players set mode entityclearing 2
 
 execute if score timer entityclearing matches 2.. run scoreboard players remove timer entityclearing 1
-execute if score timer entityclearing matches ..2 run scoreboard players set timer entityclearing 1200
+execute if score timer entityclearing matches ..2 run scoreboard players set timer entityclearing 6000
 
 execute if score alert entityclearing matches 2.. run scoreboard players remove alert entityclearing 1
 execute if score alert entityclearing matches ..2 run scoreboard players set alert entityclearing 100
