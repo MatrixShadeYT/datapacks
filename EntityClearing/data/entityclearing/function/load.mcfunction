@@ -4,4 +4,3 @@ execute unless score #alert entityclearing matches 1.. run scoreboard players se
 execute unless score #mode entityclearing matches 1.. run scoreboard players set #mode entityclearing 0
 scoreboard players set #tick entityclearing 0
 scoreboard players add #warning entityclearing 1
-function entityclearing:warning
