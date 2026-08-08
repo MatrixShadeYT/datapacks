@@ -1,1 +1,0 @@
-tellraw @s ["",{"text":"You may reroll your skills. ","color":"white"},{"text":"[Click to Reroll]","color":"green","bold":true,"clickEvent":{"action":"run_command","value":"/trigger Reroll"}},{"text":" (","color":"yellow"},{"score":{"name":"@s","objective":"RemainingRerolls"},"color":"yellow"},{"text":" remaining)","color":"yellow"}]
