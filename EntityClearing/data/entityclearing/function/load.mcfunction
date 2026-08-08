@@ -1,5 +1,4 @@
 scoreboard objectives add entityclearing dummy
-function mode
 scoreboard players add timer entityclearing 1
 scoreboard players add warning 1
 scoreboard players add alert 1

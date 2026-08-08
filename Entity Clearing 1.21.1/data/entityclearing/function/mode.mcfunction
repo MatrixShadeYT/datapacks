@@ -1,1 +1,0 @@
-scoreboard players set mode entityclearing 2
