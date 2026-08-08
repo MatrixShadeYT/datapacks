@@ -1,5 +1,3 @@
 {
-  "values": [
-    { "id": "minecraft:item", "required": false }
-  ]
+  "values": []
 }
