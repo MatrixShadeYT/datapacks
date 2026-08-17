@@ -1,4 +1,2 @@
-execute as @e[type=#detection:bosses] run title @a actionbar [{"bold":true,"color":"dark_red","selector":"@s"},{"color":"black","text":" has spawned at X: "},{"color":"dark_red","entity":"@s","nbt":"Pos[0]","scale":1},{"color":"black","text":", Y: "},{"color":"dark_red","entity":"@s","nbt":"Pos[1]","scale":1},{"color":"black","text":", Z: "},{"color":"dark_red","entity":"@s","nbt":"Pos[2]","scale":1}]
-execute as @e[type=#detection:otherworlders] run title @a actionbar [{"bold":true,"color":"dark_red","selector":"@s"},{"color":"black","text":" has spawned at X: "},{"color":"dark_red","entity":"@s","nbt":"Pos[0]","scale":1},{"color":"black","text":", Y: "},{"color":"dark_red","entity":"@s","nbt":"Pos[1]","scale":1},{"color":"black","text":", Z: "},{"color":"dark_red","entity":"@s","nbt":"Pos[2]","scale":1}]
-advancement revoke @a only detection:bosses
-advancement revoke @a only detection:otherworlders
+execute as @e[type=#detection:entity] run title @a actionbar [{"bold":true,"color":"dark_red","selector":"@s"},{"color":"black","text":" has spawned at X: "},{"color":"dark_red","entity":"@s","nbt":"Pos[0]","scale":1},{"color":"black","text":", Y: "},{"color":"dark_red","entity":"@s","nbt":"Pos[1]","scale":1},{"color":"black","text":", Z: "},{"color":"dark_red","entity":"@s","nbt":"Pos[2]","scale":1}]
+advancement revoke @a only detection:entity
