@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "mob_spawned": {
+      "trigger": "minecraft:summoned_entity",
+      "conditions": {
+        "entity": {
+          "type": "#detection:otherworlders"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "detection:alert"
+  }
+}

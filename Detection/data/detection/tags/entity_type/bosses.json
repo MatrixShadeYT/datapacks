@@ -1,0 +1,20 @@
+{
+  "values": [
+    { "id": "tensura:charybdis", "required": false },
+    { "id": "tensura:elemental_colossus", "required": false },
+    { "id": "tensura:supermassive_slime", "required": false },
+    { "id": "tensura:hinata_sakaguchi", "required": false },
+    { "id": "tensura:orc_lord", "required": false },
+    { "id": "tensura:orc_disaster", "required": false },
+    { "id": "tensura:tensura:war_gnome", "required": false },
+    { "id": "tensura:gazel_dwargo", "required": false },
+    { "id": "tensura_neb:rimuru_ogre_fight", "required": false },
+    { "id": "tensura_neb:carrion", "required": false },
+    { "id": "tensura_neb:luminous_valentine", "required": false },
+    { "id": "minecraft:elder_guardian", "required": false },
+    { "id": "minecraft:wither", "required": false },
+    { "id": "irons_spellbooks:dead_king", "required": false },
+    { "id": "minecraft:ender_dragon", "required": false },
+    { "id": "irons_spellbooks:fire_boss", "required": false }
+  ]
+}
