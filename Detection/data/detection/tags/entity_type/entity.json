@@ -7,7 +7,7 @@
     { "id": "tensura:shizu", "required": false },
     { "id": "tensura:orc_lord", "required": false },
     { "id": "tensura:orc_disaster", "required": false },
-    { "id": "tensura:tensura:war_gnome", "required": false },
+    { "id": "tensura:war_gnome", "required": false },
     { "id": "tensura:gazel_dwargo", "required": false },
     { "id": "tensura_neb:rimuru_ogre_fight", "required": false },
     { "id": "tensura_neb:carrion", "required": false },
