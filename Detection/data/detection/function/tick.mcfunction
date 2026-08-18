@@ -1,1 +1,1 @@
-execute as @e[type=#detection:entity] run title @p actionbar [{"color":"dark_red","selector":"@s"},{"color":"white","text":" has spawned at X: "},{"color":"dark_red","entity":"@s","nbt":"Pos[0]","scale":1},{"color":"white","text":", Y: "},{"color":"dark_red","entity":"@s","nbt":"Pos[1]","scale":1},{"color":"white","text":", Z: "},{"color":"dark_red","entity":"@s","nbt":"Pos[2]","scale":1}]
+execute as @e[type=#detection:entity] at @s run function detection:alert

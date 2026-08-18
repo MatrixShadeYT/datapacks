@@ -1,0 +1,1 @@
+$title @a[distance=..500] actionbar [{"color":"dark_red","selector":"@s"},{"color":"white","text":" has spawned at X: "},{"color":"dark_red","text":"$(pos.x)"},{"color":"white","text":", Y: "},{"color":"dark_red","text":"$(pos.y)"},{"color":"white","text":", Z: "},{"color":"dark_red","text":"$(pos.z)"}]
