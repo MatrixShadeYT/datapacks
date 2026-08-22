@@ -1,1 +1,1 @@
-execute as @e[type=#detection:entity] at @s run function detection:alert
+execute as @e[type=#detection:entity,tag=!detection] at @s run function detection:alert
