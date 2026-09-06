@@ -1,0 +1,2 @@
+function manipulate_tensura:aura
+function manipulate_tensura:mana
